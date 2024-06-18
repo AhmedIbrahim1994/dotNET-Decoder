@@ -18,7 +18,7 @@ This Python script decodes base64 strings found in .NET assemblies and saves the
 ## Usage
 - Run the script from the command line with the path to the .NET assembly file:
   ```bash
-  python dotnet_base64_decoder.py <dotnet_file_path
+  python dotnet_base64_decoder.py <dotnet_file_path>
   
 ## How It Works
 - identify_base64_calls: Parses the .NET assembly to find method calls to System.Convert.FromBase64String.
