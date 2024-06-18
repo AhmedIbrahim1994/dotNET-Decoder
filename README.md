@@ -12,7 +12,7 @@ This Python script decodes base64 strings found in .NET assemblies and saves the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dotnet-base64-decoder.git
+   git clone https://github.com/xKEIMA/dotNET-Decoder.git
    cd dotnet-base64-decoder
 
 ## Usage
