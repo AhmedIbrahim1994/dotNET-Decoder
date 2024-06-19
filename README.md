@@ -7,12 +7,17 @@ This Python script decodes base64 strings found in .NET assemblies and saves the
 - Python 3.x
 - dnlib
 - tabulate
+- pythonnet
 
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/xKEIMA/dotNET-Decoder.git
+
+2. Install requirements
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 - Run the script from the command line with the path to the .NET assembly file:
