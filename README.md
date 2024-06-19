@@ -34,6 +34,10 @@ This Python script decodes base64 strings found in .NET assemblies and saves the
   ```bash
   python dotnet_base64_decoder.py path/to/your/dotnet/file.exe
 
+- Real Example:
+- ![image](https://github.com/xKEIMA/dotNET-Decoder/assets/16979400/395c6c12-7d54-4782-bb47-998be999cc13)
+
+
 ## Contributing
 - Contributions are welcome! Please fork the repository and submit pull requests.
 
